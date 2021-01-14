@@ -1,1 +1,1 @@
-![Metrics](https://github.com/soukupl/soukupl/blob/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/soukupl/soukupl/main/github-metrics.svg)
